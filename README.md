@@ -8,6 +8,6 @@ TODO: Fill in more as more notebooks are uploaded, and add links
 TODO: add mybinder
 # Issues
 TODO: fill in
-# Liscence
+# License
 These notebooks are licensed under the [CCO License](https://github.com/rmwoolf/Honors-Data-Science-Thesis-Rebecca-Woolf/blob/master/LICENSE).
 
